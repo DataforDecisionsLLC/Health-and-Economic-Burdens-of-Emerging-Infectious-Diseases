@@ -15,7 +15,7 @@
 ## -	POPULATION
 ## -	TIER 2
 ## -	TIME USE
-## Please note that the raw lifetables from the United Nations World Population Prospects used in the analysis are in LIFE TABLES/raw_life_tables.dta. See Supplemental File 1 for the data citations. 
+## Please note that the raw lifetables from the United Nations World Population Prospects used in the analysis are in LIFE TABLES/raw_life_tables.dta. See Supplemental File 1 of the article for the data citations. 
 # **II. GBD 2021 data exclusions and redactions:** 
 ## Per our license restrictions, we are not able to share GBD 2021 data. Therefore, the RAW DATA folder excludes GBD 2021 data downloads, and we redacted GBD 2021 data (i.e., set all values equal to missing) in the following intermediate files: 
 ## •	stata_output/DALY/ 
