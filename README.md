@@ -1,4 +1,4 @@
-## This document contains supplementary material for the article “Health and Economic Burdens of Emerging Infectious Diseases in the United States, United States Territories, and Globally” by: JP Sevilla, Daria Burnes, Mona Birjandi, Joseph S. Knee, Richard C. White, Julie M. Villanueva, David P. Durham, Scott V. Nystrom, Robert A. Johnson, Courtney D. Petro, Jennifer Lumpkins, Deborah Schneider, and David E. Bloom. This material was created under a Creative Commons License 1.0. 
+## This document contains supplementary material for the article “Health and Economic Burdens of Emerging Infectious Diseases in the United States, United States Territories, and Globally” by: JP Sevilla, Daria Burnes, Mona Birjandi, Joseph S. Knee, Julie M. Villanueva, David P. Durham, Scott V. Nystrom, Courtney D. Petro, Jennifer Lumpkins, Deborah Schneider, David E. Bloom, Richard C. White, and Robert A. Johnson. This material was created under a Creative Commons License 1.0. 
 ## **I. The repository includes:**
 ###   1.	CODE – This folder contains all Stata and Python code used in the analysis. 
 ### -	python_code – a compressed folder containing all the Python code used.
